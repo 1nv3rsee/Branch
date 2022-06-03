@@ -1,0 +1,4 @@
+1) Wake up
+2) Eat some food
+3) Go sleep
+4) Wake up again
